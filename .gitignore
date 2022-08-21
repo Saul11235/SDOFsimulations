@@ -1,14 +1,6 @@
 local_install.py
 push_package.py
 
-*.out
-*.plt
-*.3dd
-
-Ks
-Kd
-Md
-
 *.pyc
 *.swp
 *.egg-info
