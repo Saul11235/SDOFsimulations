@@ -1,2 +1,4 @@
 # simulations
-simulations for a SDOF by Edwin Saul PM
+
+simulations for a SDOF model by Edwin Saul PM
+
